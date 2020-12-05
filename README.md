@@ -7,9 +7,9 @@ Shopping-mall Web Site
 * [eclips](https://www.eclipse.org/)
 * [maven](http://maven.apache.org/)
 # instructions
-1. eclipse 아래부분에 [server] -> [Tomcat v8.5 Server at localhost] 더블클릭 -> [Modules]에서  Path : /proj 를 / 로 편집.
-2. 파일들을 eclips에 import 시킵니다.   
+1. 파일들을 eclips에 import 시킵니다.   
 [File] -> [import] -> [General] -> [Existing Projects into WorkSpace] -> [Select root directory]에서 선택합니다. -> [Finish]
+2. eclipse 아래부분에 [server] -> [Tomcat v8.5 Server at localhost] 더블클릭 -> [Modules]에서  Path : /proj 를 / 로 편집.
 3. import가 되고 나서 만약 프로젝트에 x 표시가 나타난다면
 [프로젝트에서 오른쪽 마우스 클릭] -> [Build Path] -> [configure build path...] -> [Libraries] -> [JRE System Library] 더블클릭 -> [Alternate JRE] : jdk-14.0.2 선택 -> [Apply]   
 만약 이럼에도 없어지지 않는다면 [project] -> [clean] 을 한번 해보세요.
