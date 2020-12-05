@@ -22,3 +22,5 @@ Shopping-mall Web Site
 5. mysql 8.0
 6. mybatis
 7. html/css/javascript
+# at a glance
+
