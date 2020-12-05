@@ -23,4 +23,4 @@ Shopping-mall Web Site
 6. mybatis
 7. html/css/javascript
 # at a glance
-
+![2](https://user-images.githubusercontent.com/55746374/101240102-6f49d680-3730-11eb-9b87-801e79a16655.PNG)
