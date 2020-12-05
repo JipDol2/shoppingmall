@@ -22,3 +22,7 @@ Shopping-mall Web Site
 5. mysql 8.0
 6. mybatis
 7. html/css/javascript
+
+# at a glance
+![1](https://user-images.githubusercontent.com/55746374/101240071-3578d000-3730-11eb-8866-a49030655409.PNG)
+[main.png]
